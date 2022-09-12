@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Neetesh Bhati</h1>
-<h3 align="center">Software Engineer [@ESRI](https://github.com/Esri) | Gradute Student @BITSPilaniDubai | Former President @ACMBPDC</h3>
+<h3 align="center">Software Engineer <a href="https://esri.com">@ESRI</a> | Gradute Student <a href="https://bits-pilani.ac.in/dubai">@BITSPilani</a> | Former President <a href="https://acmbpdc.org">@ACMBPDC</a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neeteshbhati&label=Profile%20views&color=0e75b6&style=flat" alt="neeteshbhati" /> </p>
 
