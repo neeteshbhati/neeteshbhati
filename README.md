@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Neetesh Bhati</h1>
 <h3 align="center">Software Engineer <a href="https://esri.com">@ESRI</a> | Gradute Student <a href="https://bits-pilani.ac.in/dubai">@BITSPilani</a> | Former President <a href="https://acmbpdc.org">@ACMBPDC</a></h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=neeteshbhati&label=Profile%20views&color=0e75b6&style=flat" alt="neeteshbhati" /> </p>
-
-<p align="left"> <a href="https://twitter.com/neeteshbhati" target="blank"><img src="https://img.shields.io/twitter/follow/neeteshbhati?logo=twitter&style=for-the-badge" alt="neeteshbhati" /></a> </p>
-
 - 🔭 I’m currently working on **Python**
 
 - 🌱 I’m currently learning **Go**
