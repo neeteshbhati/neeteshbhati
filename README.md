@@ -1,11 +1,9 @@
-<h1 align="center">Neetesh Bhati</h1>
+<img align="center" src="https://github.com/neeteshbhati/neeteshbhati/blob/main/header.png">
 <h3 align="center">Software Engineer <a href="https://esri.com">@ESRI</a> | <a href="https://bits-pilani.ac.in/dubai">@BITSPilani</a> Alumni | Former President <a href="https://acmbpdc.org">@ACMBPDC</a></h3>
 
-Hello, my name is Neetesh, and I am a Software Engineer in Dubai.
+Hi, my name is Neetesh, and I am a Software Engineer in Dubai.
 
-I have worked with a variety of programming languages and tools which has given me a good understanding of software development best practices, as well as the ability to adapt quickly to new technologies. I have a Master's degree in Software Engineering and chaired the Association of Computing Machinery (ACM) BPDC Student Chapter.
-
-I enjoy working on challenging projects that push the boundaries of what is possible, and I am dedicated to staying up-to-date with the latest advancements in the field of technology.
+I have worked with a variety of programming languages and tools which has given me a good understanding of software development best practices, as well as the ability to adapt quickly to new technologies. I have a Master's degree in Software Engineering and chaired the Association of Computing Machinery (ACM) BPDC Student Chapter. I enjoy working on challenging projects that push the boundaries of what is possible, and I am dedicated to staying up-to-date with the latest advancements in the field of technology.
 
 <h3 align="left">Social Accounts</h3>
 <p align="left">
