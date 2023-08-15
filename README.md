@@ -1,8 +1,14 @@
 <h3 align="center">Software Engineer <a href="https://esri.com">@ESRI</a> | <a href="https://bits-pilani.ac.in/dubai">@BITSPilani</a> Alumni | Former President <a href="https://acmbpdc.org">@ACMBPDC</a></h3>
 
-Hi, my name is Neetesh, and I am a Software Engineer in Dubai.
+Hi, I am Neetesh, a Software Engineer in Dubai.
 
-I have worked with a variety of programming languages and tools which has given me a good understanding of software development best practices, as well as the ability to adapt quickly to new technologies. I have a Master's degree in Software Engineering and chaired the Association of Computing Machinery (ACM) BPDC Student Chapter. I enjoy working on challenging projects that push the boundaries of what is possible, and I am dedicated to staying up-to-date with the latest advancements in the field of technology.
+I use Python as my primary programming language but I also have experience with C, C++, and Java. I am comfortable with intermediate-advance topics in object-oriented programming, design patterns and have a good understanding of project management principles, software development lifecycle, etc.
+
+I completed my Master of Engineering in Software Systems from Birla Institute of Technology and Science - Pilani, Dubai Campus. I received my Bachelor of Engineering in Computer Science from the same university two years earlier and was awarded the UAE Golden Residency under the Outstanding Students category.
+
+My passion for software development has constantly pushed me to take on new challenges. I have won multiple hackathons and chaired the Association of Computing Machinery (ACM) BPDC Student Chapter. I am currently learning Go to expand my skillset.
+
+Reach out if you have any interesting projects to collaborate on or just want to say hi!
 
 <h3 align="left">Social Accounts</h3>
 <p align="left">
